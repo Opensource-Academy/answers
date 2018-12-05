@@ -1,2 +1,2 @@
 # answers
-Answers to exercises 
+Answers to Opensource Academy exercises 
